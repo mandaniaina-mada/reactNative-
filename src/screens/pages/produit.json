@@ -1,0 +1,16 @@
+{
+	"produit":[
+	{
+
+		"id":1,"nom":"AirMax-97", "prix": "20000 AR", "image":"require('./97.png')" 
+
+	},
+	{
+		"id":2,"nom":"AirMax-97", "prix": "25000 Ar", "image":"require('./ki.png')" 
+	},
+	{
+		"id":3,"nom":"AirMax-97", "prix": "30000 Ar", "image":"require('./ki.png')" 
+	}
+	]
+
+}
